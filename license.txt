@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bronco
+* source:	https://sketchfab.com/3d-models/bronco-37e3760bfde44beeb39e6fd69b690637
+* author:	Microsoft (https://sketchfab.com/microsoft)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bronco" (https://sketchfab.com/3d-models/bronco-37e3760bfde44beeb39e6fd69b690637) by Microsoft (https://sketchfab.com/microsoft) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
